@@ -33,3 +33,8 @@ A user can follow this link to get to the following deployed link:https://hukish
 ## Known Bugs
 As at now, there is none, but in case of any, dont hesitate to contact me
 
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
