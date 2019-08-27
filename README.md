@@ -23,3 +23,9 @@ A user can follow this link to get to the following deployed link:https://hukish
   *HTML
   *CSS
   *ANGULAR
+
+  ### BDD
+| Behavior        | Result |
+| ------------- |:----:|
+| User inputs username  | Profile of the searched user appears on the results section |
+| User clicks on the search  | page redirects and shows the search details which are   |
