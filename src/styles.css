@@ -3,6 +3,7 @@ body {
 
     background-image: url(src/assets/yancy-min-842ofHC6MaI-unsplash.jpg);
     background-size:cover;
+    background-attachment:fixed;
 
 }
 .m-a-5 {
