@@ -40,3 +40,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Support and contact details
     {Contact me on my email address :hudsonhukish@gmail.com}
+    
+### License
+    MIT License.
+    Copyright (c) {2019}
+    
