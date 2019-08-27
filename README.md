@@ -14,3 +14,6 @@ The application allows user to enter their name and then they usernames, and hav
  * The developer then creates a new project with the same name ng new Git-seacrhes,
  * Copy the inside directories the created empty app;
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically 
+
+## Usage by Users
+A user can follow this link to get to the following deployed link:https://hukish.github.io/github-Search/
